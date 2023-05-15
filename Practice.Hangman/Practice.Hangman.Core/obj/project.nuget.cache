@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "6nmwqGHdW68EuKoYrJvB4fQRBUF9wUWrzbOOlIPv6b2JLB8r+yBjcuQGtPsPn3N5UwSebkjIt1wZkei8ZMW0iw==",
+  "success": true,
+  "projectFilePath": "F:\\WorkHooks\\JALA\\Practice.Hangman\\Practice.Hangman\\Practice.Hangman.Core\\Practice.Hangman.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOPEX\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\TOPEX\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\TOPEX\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\TOPEX\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\TOPEX\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\TOPEX\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\TOPEX\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "No Authorization header detected"
+    }
+  ]
+}
